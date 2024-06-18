@@ -8,4 +8,4 @@ format:
 
 .PHONY: test
 test:
-	pio test --without-uploading -e uno
+	pio test --without-uploading
