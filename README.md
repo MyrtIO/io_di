@@ -1,6 +1,6 @@
-# io_di
+# io_di [![Quality Assurance](https://github.com/MyrtIO/io_di/actions/workflows/qa.yaml/badge.svg)](https://github.com/MyrtIO/io_di/actions/workflows/qa.yaml)
 
-Ultra-compact library for Dependency Injection. Allows to simplify singleton management in a small micro-controller project.
+Ultra-compact library for singleton dependency injection. Allows to simplify singleton management in a small micro-controller project.
 
 ## Usage
 
