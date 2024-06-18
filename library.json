@@ -1,0 +1,22 @@
+{
+  "name": "io_di",
+  "version": "1.0.0",
+  "description": "Ultra-compact library for Dependency Injection",
+  "keywords": "dependency-injection",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/MyrtIO/attotime.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Mikhael Khrustik",
+      "email": "misha@myrt.co",
+      "url": "https://myrt.co"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "Arduino",
+  "platforms": "*"
+}
